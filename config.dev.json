@@ -25,12 +25,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "ARYAN BRAND",
+  "OWNER": "Abhishek",
   "AGE": "20",
   "GENDER": "MALE",
-  "nickNameBot": "Aryan Oix",
-  "FACEBOOK": "https://www.facebook.com/MR.S9M.J99NU",
-  "prefix": "+",
+  "nickNameBot": "Abhii Oiix",
+  "FACEBOOK": "fb.me/61565580426909",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
