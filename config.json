@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "kitasjam@haren.uk",
+    "email": "61552669767015",
     "password": "__ABHIPIE007",
     "2FASecret": "",
     "i_user": "",
@@ -58,7 +58,7 @@
     "port": 3001
   },
   "serverUptime": {
-    "enable": false,
+    "enable": true,
     "port": 3000,
     "socket": {
       "enable": true,
