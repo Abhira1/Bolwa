@@ -17,7 +17,7 @@ module.exports = {
 	onStart: async function ({ api, event }) {
 		try {
 			const ownerInfo = {
-				name: '𝗖𝗟𝗜𝗙𝗙 𝗩𝗜𝗡𝗖𝗘𝗡𝗧',
+				name: '𝗔𝗕𝗛𝗜𝗦𝗛𝗘𝗞 𝗢𝗜𝗫',
 				gender: '𝗠𝗮𝗹𝗲',
 				hobby: '𝗖𝗼𝗱𝗲 𝗘𝘃𝗲𝗿𝘆𝗱𝗮𝘆',
 				Fb: 'https://www.facebook.com/100031793539926',
