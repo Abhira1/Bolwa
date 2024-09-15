@@ -6,9 +6,9 @@ const path = require("path");
 module.exports.config = {
 		name: "info",
 		version: "1.0.1",
-		aliases: ["info"],
+		aliases: ["info", "owner", "Owner", "Info", "in", "fo"],
 		role: 0,
-		credits: "Abhi",
+		credits: "cliff",
 		description: "Admin and Bot info.",
 		cooldown: 5,
 	commandCategory: "info",
