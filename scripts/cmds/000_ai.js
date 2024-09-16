@@ -2,9 +2,9 @@ const axios = require('axios');
 
 const Prefixes = [
   'gpt',
-  '/gpt',
+  '/abhi',
   'ai',
-  'Abhi'
+  'abhi'
 ];
 
 const apiEndpoints = [
