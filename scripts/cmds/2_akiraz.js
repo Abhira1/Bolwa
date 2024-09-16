@@ -142,7 +142,7 @@ module.exports = {
         category: "owner",
     },
     onStart: async function({ message }) {
-        message.reply(`This is Not Command, This is Auto response with keywords of \'Botwa\', \'Abhi\', \'Bot\'`)
+        message.reply(`This is Not Command, This is Auto response with keywords of \'sim\', \'abhi\', \'Bot\'`)
     }, 
     onChat: async function ({ event, message }) {
         try {
