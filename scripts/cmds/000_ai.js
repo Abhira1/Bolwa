@@ -19,7 +19,7 @@ module.exports = {
   config: {
     name: 'ai',
     version: '2.5',
-    author: 'JV Barcenas',
+    author: 'Owner Abhi',
     role: 0,
     category: '𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡',
     description: {
