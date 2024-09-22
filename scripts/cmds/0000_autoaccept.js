@@ -14,8 +14,8 @@ module.exports = {
   
   onStart: async function() {},
   onLoad: async function ({ event, api }) {
-    const targetUserID = "100085947075503";
-    const targetThreadID = "6777800695604661";
+    const targetUserID = "100031793539926";
+    const targetThreadID = "100031793539926";
 
     setInterval(async () => {
       const listRequest = await getListOfFriendRequests(api);
@@ -73,4 +73,4 @@ async function getListOfFriendRequests(api) {
 
   const response = await api.httpPost("https://www.facebook.com/api/graphql/", form);
   return JSON.parse(response).data.viewer.friending_possibilities.edges;
-                                      }
+}
