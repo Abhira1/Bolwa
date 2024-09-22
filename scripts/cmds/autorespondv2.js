@@ -19,21 +19,21 @@ const { body, messageID, threadID } = event;
 // Reactions based on words
 const emojis = {
 "🌸": ["Ritsu", "Princess", "sanchokuin", "Goddess", "Anaïs", "Barro", "Tsiaro", "Kazu", "Thea", "Aesther"],
-"🫣": ["jolie", "belle", "beau", "gaganunin", "pfft", "xyrene", "fantastique"],
+"💚": ["jolie", "belle", "beau", "gaganunin", "pfft", "xyrene", "fantastique"],
 "😾": ["🤨", "nooo", "talong", "galit"],
 "😼": ["wtf", "fck", "haaays", "stfu", "ngi ", "ngek", "nge ", "luh", "lah"],
 "😸": ["pill", "laugh", "lt ", "blague", "huy", "hoy"],
 "⏳": ["prodia", "sdxl", "bardv3", "tanongv2", "-imagine", "genimg", "Tanongv4", "kamla", "-shortcut"],
 "👋": ["salut", "bonjour", "c v"],
-"🫨": ["ok", "cool", "bien", "super", "d'accord", "génial", "merveille"],
+"🌊": ["ok", "cool", "bien", "super", "d'accord", "génial", "merveille"],
 };
 
 // Replies to specific words
 const replies = {
 "Bye": "A+ tard 🌸😘...",
 "muaah": "💋🌷 bisous ",
-"abhi": "My Owner  ",
-"who is you lover ?": "Abhi🌷 is my Everything🌸"};
+"kaiz": "De aona ? ",
+"who is you lover ?": "𝗧𝗛𝗘𝗔🌷 𝗶𝘀 𝗺𝘆 𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴🌸"};
 
 // React based on words
 for (const [emoji, words] of Object.entries(emojis)) {
